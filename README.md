@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivaranjith</h1>
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning <b>Flutter</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
